@@ -21,3 +21,7 @@ https://medium.com/bluekiri/dealing-with-highly-imbalanced-classes-7e36330250bc
 <b>Benford Law</b>
 <br>
 https://www.acfe.com/uploadedFiles/Shared_Content/Products/Self-Study_CPE/UsingBenfordsLaw_2018_final_extract.pdf
+<br>
+<b>Fraud Detection Paper Compilation</b> Absolutely legit
+<br>
+https://github.com/benedekrozemberczki/awesome-fraud-detection-papers
