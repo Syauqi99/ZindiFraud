@@ -19,4 +19,5 @@ https://pdfs.semanticscholar.org/4e94/ff9a775eb5b73af4971322ccf383cb1f85b2.pdf
 https://medium.com/bluekiri/dealing-with-highly-imbalanced-classes-7e36330250bc
 <br>
 <b>Benford Law</b>
+<br>
 https://www.acfe.com/uploadedFiles/Shared_Content/Products/Self-Study_CPE/UsingBenfordsLaw_2018_final_extract.pdf
