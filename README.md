@@ -6,7 +6,8 @@ The data is extremly imbalanced so specific treatment must be done.
 Fetch or downlaod the dataset here:
 <b>https://zindi.africa/competitions/xente-fraud-detection-challenge</b>
 
-Relevant work: 
+Relevant work:
+<br>
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56475
 <br>
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56328
